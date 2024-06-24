@@ -114,3 +114,34 @@ a {
   width: 33%;
   padding: 25px;
 }
+
+/* Testimonial */
+#testimonial {
+  background: url(../img/background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  color: #fff;
+  text-align: center;
+  font-weight: 300;
+}
+
+#testimonial h4 {
+  padding-bottom: 40px;
+}
+
+#testimonial img {
+  padding-bottom: 20px;
+  border-radius: 50%;
+}
+
+#testimonial p {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.nombre {
+  padding-top: 20px;
+}
