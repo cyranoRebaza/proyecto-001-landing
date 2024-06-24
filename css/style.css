@@ -145,3 +145,20 @@ a {
 .nombre {
   padding-top: 20px;
 }
+
+/* feature */
+#feature {
+  background: #f9f9f9;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: center;
+}
+.feature-box {
+  float: left;
+  width: 33%;
+  padding: 25px;
+}
+
+.feature-box img {
+  width: 100%;
+}
