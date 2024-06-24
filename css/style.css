@@ -162,3 +162,36 @@ a {
 .feature-box img {
   width: 100%;
 }
+
+/* About */
+#about {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.about-image {
+  float: left;
+  width: 50%;
+  padding: 40px;
+}
+
+.about-image img {
+  width: 100%;
+}
+
+.about-text {
+  float: right;
+  width: 50%;
+  padding: 150px 50px;
+}
+
+.about-text p {
+  padding-top: 20px;
+}
+
+/* Footer */
+#mainfooter {
+  background: #f9f9f9;
+  text-align: center;
+  padding: 20px;
+}
